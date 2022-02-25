@@ -11,7 +11,7 @@ const CustomHeader = () => (
         Home
       </Link>
       <Link to="/" className="option">
-        Feedback
+        PortFolio
       </Link>
       <Link to="/" className="option active">
         Sign In
